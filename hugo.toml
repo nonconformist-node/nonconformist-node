@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/nonconformist-node/nonconformist-node/'
+baseURL = 'https://github.com/nonconformist-node/'
 languageCode = 'en-us'
 title = 'Nonconformist NODE'
 theme='hugo-blog-awesome'

@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:36813/nonconformist-node/nonconformist-node/pages/about/</loc>
+    <loc>http://localhost:41339/nonconformist-node/pages/about/</loc>
   </url><url>
-    <loc>http://localhost:36813/nonconformist-node/nonconformist-node/categories/</loc>
+    <loc>http://localhost:41339/nonconformist-node/categories/</loc>
   </url><url>
-    <loc>http://localhost:36813/nonconformist-node/nonconformist-node/</loc>
+    <loc>http://localhost:41339/nonconformist-node/</loc>
   </url><url>
-    <loc>http://localhost:36813/nonconformist-node/nonconformist-node/pages/links/</loc>
+    <loc>http://localhost:41339/nonconformist-node/pages/links/</loc>
   </url><url>
-    <loc>http://localhost:36813/nonconformist-node/nonconformist-node/pages/</loc>
+    <loc>http://localhost:41339/nonconformist-node/pages/</loc>
   </url><url>
-    <loc>http://localhost:36813/nonconformist-node/nonconformist-node/tags/</loc>
+    <loc>http://localhost:41339/nonconformist-node/tags/</loc>
   </url>
 </urlset>
