@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Nonconformist NODE</title><link>nonconformist-node.net/pages/</link><description>Recent content in Pages on Nonconformist NODE</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><atom:link href="nonconformist-node.net/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>nonconformist-node.net/pages/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>nonconformist-node.net/pages/about/</guid><description>&lt;h1 id="core-themes--interests"&gt;Core Themes &amp;amp; Interests&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Nonconformist NODE</title>
+    <link>//localhost:1313/pages/</link>
+    <description>Recent content in Pages on Nonconformist NODE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pages/about/</guid>
+      
+      <description>&lt;h1 id=&#34;core-themes--interests&#34;&gt;Core Themes &amp;amp; Interests&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Decentralization&lt;/li&gt;
 &lt;li&gt;Autonomy and self-sovereignty&lt;/li&gt;
@@ -8,12 +23,13 @@
 &lt;li&gt;Permissionless innovation&lt;/li&gt;
 &lt;li&gt;Subversive ideas and speculative futures&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;For more information read this &lt;a href="nonconformist-node.net/posts/first-transmission/first-transmission/"&gt;post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information read this &lt;a href=&#34;//localhost:1313/posts/first-transmission/first-transmission/&#34;&gt;post&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;All content is unlicensed (CC0) because ideas are not scarce, feel free to copy. Attribution would be appreciated but it is not required.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id="contact"&gt;Contact&lt;/h1&gt;
+&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
 &lt;pre&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----
+
 mQINBGi+MhgBEADCrtFPc1WZN8dEF8AXnA8YQtnOzBN/JtaYHcoeWIL4VA5YPXYx
 dwy2lDnPPkB6u12wkhkZoZPZ6+YoNcnmTEZd3Tiv6WCprZ69Mb0OHKGKICol5C4b
 EoR1Kx9XAMLrLf6CUphkvitFvl6PqVV+M5a0ECbxSmikbZS98arOvIPme4UslN85
@@ -63,4 +79,9 @@ JeDBQDImgnMEXLWta9eIK5MNYPfbV+k/yycCSzkrkqi4VI5qm8OhbIOeUutvENln
 CsNTnK1dGASraPs2x7xUlPQ7cC7RSj3EEYytGNJt1/M=
 =mV1V
 -----END PGP PUBLIC KEY BLOCK-----&lt;/pre&gt;
-&lt;p&gt;65E16F29D2E3A38293C939FFD7F356EEBEFF92CB&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;65E16F29D2E3A38293C939FFD7F356EEBEFF92CB&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
