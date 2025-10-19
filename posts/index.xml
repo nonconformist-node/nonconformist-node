@@ -1,38 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Nonconformist NODE</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Nonconformist NODE</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Transmission</title>
-      <link>//localhost:1313/posts/first-transmission/first-transmission/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/first-transmission/first-transmission/</guid>
-      
-      <description>&lt;p&gt;The first &lt;a href=&#34;//localhost:1313/posts/post0/post0/&#34;&gt;post&lt;/a&gt; on this site was short — just a quick test and a hint of what will be explored in this corner of cyberspace.&lt;br&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Nonconformist NODE</title><link>https://nonconformist-node.net/posts/</link><description>Recent content in Posts on Nonconformist NODE</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nonconformist-node.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>First Transmission</title><link>https://nonconformist-node.net/posts/first-transmission/first-transmission/</link><pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate><guid>https://nonconformist-node.net/posts/first-transmission/first-transmission/</guid><description>&lt;p&gt;The first &lt;a href="https://nonconformist-node.net/posts/post0/post0/"&gt;post&lt;/a&gt; on this site was short — just a quick test and a hint of what will be explored in this corner of cyberspace.&lt;br&gt;
 Here, &lt;strong&gt;ideas matter&lt;/strong&gt; — not the person behind them — because ideas should carry their own weight.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Ideas and only ideas can light the darkness.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;— Ludwig von Mises&lt;/p&gt;
 &lt;p&gt;This site isn’t chasing algorithms, engagement, or monetization.&lt;br&gt;
 There will be no ads, no sponsors, no clickbait.&lt;br&gt;
-It’s here to take the long, intertemporal view across broad topics.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Post0</title>
-      <link>//localhost:1313/posts/post0/post0/</link>
-      <pubDate>Thu, 09 Oct 2025 13:08:26 +0100</pubDate>
-      
-      <guid>//localhost:1313/posts/post0/post0/</guid>
-      
-      <description>&lt;p&gt;Hello, Cyberspace!&lt;/p&gt;
+It’s here to take the long, intertemporal view across broad topics.&lt;/p&gt;</description></item><item><title>Post0</title><link>https://nonconformist-node.net/posts/post0/post0/</link><pubDate>Thu, 09 Oct 2025 13:08:26 +0100</pubDate><guid>https://nonconformist-node.net/posts/post0/post0/</guid><description>&lt;p&gt;Hello, Cyberspace!&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;hellip;as a starting-point, I would like you to go home and ponder the meaning of the word &lt;strong&gt;&lt;em&gt;subversive&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;― &lt;em&gt;The Diamond Age&lt;/em&gt;, Neal Stephenson&lt;/p&gt;
@@ -41,9 +14,4 @@ It’s here to take the long, intertemporal view across broad topics.&lt;/p&gt;<
 We have no elected government, nor are we likely to have one, so I address you with no greater authority than that with which liberty itself always speaks. I declare the global social space we are building to be naturally independent of the tyrannies you seek to impose on us. You have no moral right to rule us nor do you possess any methods of enforcement we have true reason to fear.&lt;br&gt;
 &amp;hellip;&lt;br&gt;
 These increasingly hostile and colonial measures place us in the same position as those previous lovers of freedom and self-determination who had to reject the authorities of distant, uninformed powers. We must declare our virtual selves immune to your sovereignty, even as we continue to consent to your rule over our bodies. We will spread ourselves across the Planet so that no one can arrest our thoughts.&lt;br&gt;
-We will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.&lt;/p&gt;</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+We will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.&lt;/p&gt;</description></item></channel></rss>
