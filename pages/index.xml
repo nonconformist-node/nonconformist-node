@@ -19,5 +19,37 @@ I am a thinker who loves to view ideas turned around in strange but strangely in
       
     </item>
     
+    <item>
+      <title>Suggestions</title>
+      <link>http://localhost:1313/pages/links_test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/links_test/</guid>
+      
+      <description>&lt;p&gt;The following links:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mises.org&#34;&gt;Mises&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Suggestions</title>
+      <link>http://localhost:1313/pages/suggestions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/suggestions/</guid>
+      
+      <description>&lt;p&gt;Interesting and inspiring sites on the Web.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kycnot.me/&#34;&gt;KYC Not Me&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;mises.org&#34;&gt;Mises Institute&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://nakamotoinstitute.org/&#34;&gt;Nakamoto Institute&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://n-o-d-e.net/&#34;&gt;N-O-D-E&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://sovereignstack.tools&#34;&gt;SovereignStack&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtux.org/&#34;&gt;YouTux&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Published on 2026-03-25&lt;/p&gt;
+&lt;hr&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
