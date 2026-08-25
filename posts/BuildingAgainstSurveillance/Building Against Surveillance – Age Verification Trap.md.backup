@@ -1,0 +1,139 @@
++++
+title = 'Building Against Surveillance: Age Verification Trap'
+date = 2026-03-24T21:28:50Z
+series = ["Building Against Surveillance"]
+draft = true
++++
+
+## Submission in Progress
+
+>The "Internet driver’s license" is something we need to fight against.
+
+— Tim May
+
+Decades ago, visionaries imagined cyberspace as a frontier—open, uncontrollable, beyond the reach of government rule. Today, we are drifting toward a dystopian future where access to the digital world may require explicit permission from the state.
+
+The moment you have to ask permission to use your computer is the moment you no longer truly own it.
+
+Under the *aged* guise of “protecting the children”—and considering the questionable track record of politicians, including high-profiles involved in cases like Jeffrey [Epstein](https://mises.org/power-market/epstein-files-opportunity-libertarians)—recent surveillance laws are precursors to increasing totalitarianism. Once companies and individuals signal willingness to submit, power expands unchecked. 
+
+What we are witnessing is not a set of isolated policies, but the early stages of something much larger: a system designed to monitor, filter, and ultimately control the flow of information. An architecture where anonymity disappears, every action is tracked, and stepping outside approved narratives carries consequences. Call it what it is: the slow construction of a surveillance state.
+
+Privacy is not optional. It is the precondition for independent thought. Without it, people self-censor, hesitate, and conform. Creativity dies quietly—not because it is banned outright, but because the risk of expression becomes too high.
+
+No wonder politicians fear the Internet.
+
+This is not the first time institutions have tried to contain disruptive technology. The Catholic Church once tried to control the spread of the printing press, fearing exactly what it enabled: uncontrolled ideas. They failed—but not before conflict, suppression, and upheaval.
+
+There is no guarantee this time will be easier. Unless something changes, we are heading into a period where submission is normalized and resistance is marginalized. The only thing that has ever shifted that trajectory is a refusal to comply—a willingness to question, to resist, and to build outside imposed systems.
+
+As Eric Hughes wrote in *A Cypherpunk's Manifesto*:
+
+>We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy out of their beneficence.
+
+## The Surveillance Machine Is Already Here
+
+Over the past decade, surveillance technologies have advanced faster than any meaningful tools for privacy. Not by accident—but because most people never pushed back.
+
+Aggravated by the myopic mentality of “I have nothing to hide,” this has become the perfect slogan for a compliant population. Add to that the normalization of constant observation—smartphones tracking location, cameras on every street corner—and the outcome is predictable: people choose convenience every single time, without questioning the cost.
+
+Airports across the world rely on biometric gates that identify travelers by their faces. Public spaces are saturated with facial recognition systems, often deployed without meaningful consent. Consumers are trained to believe that unlocking their phones with their face is “secure,” while quietly accepting that their most personal device is tied directly to their biometric identity.
+
+Meanwhile, platforms harvest behavior at an industrial scale. Every message, search, click, and pause is recorded, analyzed, and stored. What is presented as convenience is, in reality, continuous surveillance outsourced to corporations. Even trivial interactions, like logging into public Wi-Fi, increasingly require identity verification via phone numbers or biometrics. Small steps, each seemingly harmless, form part of a system of total visibility.
+
+### Big Tech and the Gatekeepers
+
+Centralization of power amplifies the threat.
+
+Big Tech controls the infrastructure of the digital world: operating systems, app stores, cloud services, identity layers. These are not just products—they are gatekeeping mechanisms.
+
+And now the more violent and totalitarian powers of states worldwide are moving to tighten their grip on these gates. Regulatory pressure, lobbying, and “public-private partnerships” create systems where control is shared, reinforced, and legitimized. The result is [corporatism](https://mises.org/mises-wire/natural-capitalism-and-its-degeneration)—where state power and corporate power merge into a single, self-reinforcing structure.
+
+### Normalization: The Invisible Threat
+
+The most dangerous part is not the technology itself. It is the normalization.
+
+People are no longer alarmed by surveillance—they expect it. They defend it. They internalize it. Freedom is not removed in a single act; it is eroded through repeated, blind trade-offs. Tim May’s warning about an “Internet driver’s license” was never abstract. It was a prediction: a system where access to the digital world is conditional, monitored, and revocable.
+
+And here is what most people underestimate: once you give up even a small piece of freedom without resistance, getting it back becomes exponentially harder.
+
+## The Lie of “Safety”
+
+If age verification sounds reasonable, it’s because you’re being sold the same argument used every time power expands: safety first, freedom later—if ever.
+
+Every meaningful increase in state control begins with an excuse. First, it’s protection. Then enforcement expands. Then the scope quietly widens. What was once unthinkable becomes policy. History is full of regimes that justified control in the name of safety—including Nazi Germany, where the language of protection masked something far darker.
+
+So ask yourself: what do openly Orwellian and totalitarian states like China or North Korea do with identity systems, surveillance, and tracking infrastructure? Do they limit their use—or expand it? And why assume Western governments will permanently restrain themselves from doing the same?
+
+Cyberspace is being pulled back into the realm of physical control—identity tied to access, access tied to compliance. This only works because people still believe that authorities, elected or not, inherently know what is best. That belief—not force—is the real enforcement mechanism.
+
+### Tyranny does not begin with violence. It begins with acceptance.
+
+Would you willingly hand over your personal decisions—what you say, what you read, what you think—to someone else, as a slave in ancient times might have done? That is the direction these systems point toward. Not immediately, not explicitly—but structurally.
+
+Privacy, together with critical thinking, is what makes creativity and innovation possible. Surveillance does the opposite: it introduces risk into expression and makes deviation dangerous. Over time, people stop exploring ideas—not because they are forbidden outright, but because the cost becomes too high. That is how control scales.
+
+As Paul Graham wrote:
+
+>It is the people who break rules that are the source of America's wealth and power.
+
+And as Julian Assange warned:
+
+>The internet, our greatest tool of emancipation, has been transformed into the most dangerous facilitator of totalitarianism we have ever seen.
+
+In heavily controlled systems, bad ideas don’t get challenged—they get re-enforced. Good ideas are suppressed before they can spread. The result is not stability. It’s decay—where only the most compliant and cowardly thinking survives.
+
+## Noncompliance as a Strategy
+
+### The Hacker’s Spirit
+
+Compliance is submission. The alternative is disobedience—driven by the [hacker’s spirit](https://paulgraham.com/gba.html). Breaking rules not for chaos, but to *challenge systems that should not exist in the first place*.
+
+### Refusal in Practice
+
+A clear example is [AgelessLinux](https://agelesslinux.org/). It’s not just a “protest distro”—it’s a beautiful statement of intent. It embodies the kind of unruly refusal that most individuals and companies avoid:
+
+>Flagrantly noncompliant. Ships a machine-readable REFUSAL notice. Provides no age collection interface. Provides no age bracket API. Plans to distribute physical devices to children at school STEM fairs. Invites enforcement.
+
+This is what resistance looks like in practice.
+
+This is the attitude that can, in the long term, reverse a world where small [companies](https://blog.system76.com/post/system76-on-age-verification) are forced to either comply with tyrants or disappear.
+
+### Building Alternatives
+
+Another strategy is building alternatives. Protocols like NOSTR or XMPP shift power away from centralized platforms like Twitter/X or Discord and back to users. Protocols cannot be controlled as easily—they are harder to capture and shut down.
+
+### Reshaping the Rules
+
+Even the structure of how we build matters. Registering a company, tying identity to operation, and exposing founders to bureaucratic oversight in exchange for a veneer of legal protection are trade-offs often accepted without question. But they come at a hefty cost: autonomy.
+
+A different path exists, but it requires a shift in mindset: ***permissionless creation***. Build software, hardware, and businesses that minimize reliance on centralized approval. Reduce points of control while maintaining real-world functionality. This is not immediate; it takes time, experimentation, and iteration. But it starts with a simple principle:
+
+***Do not default to compliance.*** 
+
+Do not blindly trust convenience. Question authority—and what it demands from you. Resist the submissive idea that access must be verified, approved, or regulated by default. Once this idea takes hold, control is no longer imposed. It is passively accepted.
+
+## The Universe Doesn’t Ask Permission
+
+### Reality Rewards Understanding, Not Obedience
+
+For centuries, most people have behaved as if the state is responsible for the sunrise, gravity, or even the speed of light. As if the state somehow created life on this planet.
+
+It’s time to ditch that delusion. State rulers have no special insight into reality or morality. They are no better than the megalomaniacs of the past who claimed to be gods or spoke for gods. Voting changes nothing about that fundamental truth.
+
+As Jack Cohen and Ian Stewart said:
+
+>The universe rewards us for understanding it and punishes us for not. When we understand the universe, our plans work and we feel good. If we try to fly by jumping off a cliff and flapping our arms, the universe will kill us.
+
+Reality doesn’t care about permission slips, approvals, or obedience. It only responds to understanding and action.
+
+The path forward is not just technological—it’s about attitude, creativity, and refusal to surrender individual sovereignty.
+
+Cyberspace isn’t free because someone decided it should be—it’s free because we refuse to give it up. Every line of code, every protocol, every refusal to comply chips away at the walls that would turn the web into a panopticon.
+
+Protect your privacy, question authority, break the rules that deserve breaking, and build tools that no tyrant can touch. Freedom isn’t granted—it’s claimed, one act of disobedience at a time.
+
+>Cyberspace will always remain free if we refuse to give it up willingly.
+
+— Tim May
+
